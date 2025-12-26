@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Nagarikta KYC</string>
+    <string name="app_name_nepali">नागरिकता प्रमाणीकरण</string>
+
+    <!-- Common -->
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+
+    <!-- Permissions -->
+    <string name="camera_permission_required">Camera Permission Required</string>
+    <string name="camera_permission_rationale">Please grant camera permission to verify your identity</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">Citizenship Verification</string>
+    <string name="onboarding_subtitle">Secure and Fast KYC Process</string>
+
+    <!-- Citizenship Scan -->
+    <string name="scan_instruction">Align Your Citizenship Card</string>
+    <string name="scan_subtitle">Place the card within the golden frame</string>
+
+    <!-- Liveness -->
+    <string name="liveness_initializing">Position your face in the frame</string>
+    <string name="liveness_turn_left">Turn your head LEFT</string>
+    <string name="liveness_turn_right">Turn your head RIGHT</string>
+    <string name="liveness_smile">Now SMILE!</string>
+    <string name="liveness_completed">Verification Complete!</string>
+
+    <!-- Errors -->
+    <string name="error_no_face">No face detected</string>
+    <string name="error_move_closer">Move closer to camera</string>
+    <string name="error_camera_failed">Camera initialization failed</string>
+</resources>
